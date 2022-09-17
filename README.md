@@ -1,2 +1,4 @@
 # Flight
-## a backup repo for the Betaflight dumps and configurations.  Just Send it MF's 
+## Backup repo for Betaflight dumps and configurations.  If you know you know
+
+#SendIT MF's 
